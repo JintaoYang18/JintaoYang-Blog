@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.f1facf3d.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const o={};function c(a,n){return t(),e("p",null,"hello start")}var s=r(o,[["render",c]]);export{s as default};
