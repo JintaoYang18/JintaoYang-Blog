@@ -13,7 +13,7 @@ module.exports = {
         navbar: [
             // 嵌套 Group - 最大深度为 2
             {
-              text: '读论文笔记',
+              text: '读论文笔记-暂无',
               children: [
                 {
                     text: '攻击1',
@@ -27,7 +27,7 @@ module.exports = {
             },
             // 控制元素何时被激活
             {
-              text: 'Vuepress学习',
+              text: 'Vuepress学习-暂无',
               children: [
                 {
                   text: 'Always active',

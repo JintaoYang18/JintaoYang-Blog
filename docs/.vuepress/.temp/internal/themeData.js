@@ -1,7 +1,7 @@
 export const themeData = {
   "navbar": [
     {
-      "text": "读论文笔记",
+      "text": "读论文笔记-暂无",
       "children": [
         {
           "text": "攻击1",
@@ -20,7 +20,7 @@ export const themeData = {
       ]
     },
     {
-      "text": "Vuepress学习",
+      "text": "Vuepress学习-暂无",
       "children": [
         {
           "text": "Always active",
