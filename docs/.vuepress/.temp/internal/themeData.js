@@ -20,7 +20,11 @@ export const themeData = {
       ]
     },
     {
-      "text": "Vuepress学习-暂无",
+      "text": "Vuepress学习-未完成",
+      "link": "https://jintaoyang18.github.io/JintaoYang-LearningVuePress/"
+    },
+    {
+      "text": "navbar-暂无",
       "children": [
         {
           "text": "Always active",

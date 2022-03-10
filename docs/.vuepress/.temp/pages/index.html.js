@@ -42,6 +42,15 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "updatedTime": 1646835172000,
+    "contributors": [
+      {
+        "name": "JintaoYang18",
+        "email": "90304586+JintaoYang18@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "README.md"
 }

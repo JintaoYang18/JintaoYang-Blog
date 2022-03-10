@@ -1,1 +1,0 @@
-const t={key:"v-0978b044",path:"/guide/markdown.html",title:"\u9875\u9762\u7684\u6807\u9898",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"\u9875\u9762\u7684\u6807\u9898",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{},filePathRelative:"guide/markdown.md"};export{t as data};

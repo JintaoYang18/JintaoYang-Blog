@@ -25,9 +25,14 @@ module.exports = {
                   },
               ],
             },
+
+            {
+              text: 'Vuepress学习-未完成',
+              link: 'https://jintaoyang18.github.io/JintaoYang-LearningVuePress/',
+            },
             // 控制元素何时被激活
             {
-              text: 'Vuepress学习-暂无',
+              text: 'navbar-暂无',
               children: [
                 {
                   text: 'Always active',
