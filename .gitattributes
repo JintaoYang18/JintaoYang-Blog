@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
-*.vue linguist-language=Vue#
+*.vue linguist-language=Vue
+*.js linguist-language=vue
+*.css linguist-language=vue
+*.html linguist-language=vue
