@@ -1,7 +1,7 @@
-import clientAppEnhance0 from '/Users/yangjintao/Documents/GitHub/JintaoYang-Blog/node_modules/@vuepress/plugin-external-link-icon/lib/client/clientAppEnhance.js'
-import clientAppEnhance1 from '/Users/yangjintao/Documents/GitHub/JintaoYang-Blog/node_modules/@vuepress/plugin-medium-zoom/lib/client/clientAppEnhance.js'
-import clientAppEnhance2 from '/Users/yangjintao/Documents/GitHub/JintaoYang-Blog/node_modules/@vuepress/plugin-theme-data/lib/client/clientAppEnhance.js'
-import clientAppEnhance3 from '/Users/yangjintao/Documents/GitHub/JintaoYang-Blog/node_modules/@vuepress/theme-default/lib/client/clientAppEnhance.js'
+import clientAppEnhance0 from 'G:/GitHub/JintaoYang-Blog/node_modules/@vuepress/plugin-external-link-icon/lib/client/clientAppEnhance.js'
+import clientAppEnhance1 from 'G:/GitHub/JintaoYang-Blog/node_modules/@vuepress/plugin-medium-zoom/lib/client/clientAppEnhance.js'
+import clientAppEnhance2 from 'G:/GitHub/JintaoYang-Blog/node_modules/@vuepress/plugin-theme-data/lib/client/clientAppEnhance.js'
+import clientAppEnhance3 from 'G:/GitHub/JintaoYang-Blog/node_modules/@vuepress/theme-default/lib/client/clientAppEnhance.js'
 
 export const clientAppEnhances = [
   clientAppEnhance0,

@@ -42,28 +42,6 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "git": {
-    "updatedTime": 1646835172000,
-    "contributors": [
-      {
-        "name": "JintaoYang18",
-        "email": "90304586+JintaoYang18@users.noreply.github.com",
-        "commits": 1
-      }
-    ]
-  },
+  "git": {},
   "filePathRelative": "README.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
