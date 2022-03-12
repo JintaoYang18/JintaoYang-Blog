@@ -1,6 +1,14 @@
 export const themeData = {
   "navbar": [
     {
+      "text": "Python学习-未完成",
+      "link": "https://jintaoyang18.github.io/JintaoYang-LearningPython/"
+    },
+    {
+      "text": "Vuepress学习-未完成",
+      "link": "https://jintaoyang18.github.io/JintaoYang-LearningVuePress/"
+    },
+    {
       "text": "读论文笔记-暂无",
       "children": [
         {
@@ -18,10 +26,6 @@ export const themeData = {
           ]
         }
       ]
-    },
-    {
-      "text": "Vuepress学习-未完成",
-      "link": "https://jintaoyang18.github.io/JintaoYang-LearningVuePress/"
     },
     {
       "text": "navbar-暂无",

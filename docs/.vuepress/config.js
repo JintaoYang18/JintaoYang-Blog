@@ -11,6 +11,16 @@ module.exports = {
     theme: '@vuepress/theme-default',
     themeConfig: {
         navbar: [
+            {
+              text: 'Python学习-未完成',
+              link: 'https://jintaoyang18.github.io/JintaoYang-LearningPython/',
+            },
+  
+
+            {
+              text: 'Vuepress学习-未完成',
+              link: 'https://jintaoyang18.github.io/JintaoYang-LearningVuePress/',
+            },
             // 嵌套 Group - 最大深度为 2
             {
               text: '读论文笔记-暂无',
@@ -24,11 +34,6 @@ module.exports = {
                     children: ['/group/sub/foo.md', '/group/sub/bar.md'],
                   },
               ],
-            },
-
-            {
-              text: 'Vuepress学习-未完成',
-              link: 'https://jintaoyang18.github.io/JintaoYang-LearningVuePress/',
             },
             // 控制元素何时被激活
             {
