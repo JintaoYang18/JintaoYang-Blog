@@ -12,48 +12,51 @@ module.exports = {
     themeConfig: {
         navbar: [
             {
-              text: 'Python学习-未完成',
+              text: 'Python学习',
               link: 'https://jintaoyang18.github.io/JintaoYang-LearningPython/',
             },
-  
-
             {
-              text: 'Vuepress学习-未完成',
+              text: 'Vuepress学习',
               link: 'https://jintaoyang18.github.io/JintaoYang-LearningVuePress/',
             },
+            {
+              text: 'GitHub',
+              link: 'https://github.com/JintaoYang18',
+            }
+
             // 嵌套 Group - 最大深度为 2
-            {
-              text: '读论文笔记-暂无',
-              children: [
-                {
-                    text: '攻击1',
-                    children: ['/group/sub/foo.md', '/group/sub/bar.md'],
-                },
-                {
-                    text: '防御2',
-                    children: ['/group/sub/foo.md', '/group/sub/bar.md'],
-                  },
-              ],
-            },
+            // {
+            //   text: '读论文笔记-暂无',
+            //   children: [
+            //     {
+            //         text: '攻击1',
+            //         children: ['/group/sub/foo.md', '/group/sub/bar.md'],
+            //     },
+            //     {
+            //         text: '防御2',
+            //         children: ['/group/sub/foo.md', '/group/sub/bar.md'],
+            //       },
+            //   ],
+            // },
             // 控制元素何时被激活
-            {
-              text: 'navbar-暂无',
-              children: [
-                {
-                  text: 'Always active',
-                  link: '/',
-                  // 该元素将一直处于激活状态
-                  activeMatch: '/',
-                },
-                {
-                  text: 'Active on /foo/',
-                  link: '/not-foo/',
-                  // 该元素在当前路由路径是 /foo/ 开头时激活
-                  // 支持正则表达式
-                  activeMatch: '^/foo/',
-                },
-              ],
-            },
+            // {
+            //   text: 'navbar-暂无',
+            //   children: [
+            //     {
+            //       text: 'Always active',
+            //       link: '/',
+            //       // 该元素将一直处于激活状态
+            //       activeMatch: '/',
+            //     },
+            //     {
+            //       text: 'Active on /foo/',
+            //       link: '/not-foo/',
+            //       // 该元素在当前路由路径是 /foo/ 开头时激活
+            //       // 支持正则表达式
+            //       activeMatch: '^/foo/',
+            //     },
+            //   ],
+            // },
         ],
         logo: '/images/logo2.png',
     },

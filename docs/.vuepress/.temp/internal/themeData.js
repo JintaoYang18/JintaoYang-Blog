@@ -1,46 +1,16 @@
 export const themeData = {
   "navbar": [
     {
-      "text": "Python学习-未完成",
+      "text": "Python学习",
       "link": "https://jintaoyang18.github.io/JintaoYang-LearningPython/"
     },
     {
-      "text": "Vuepress学习-未完成",
+      "text": "Vuepress学习",
       "link": "https://jintaoyang18.github.io/JintaoYang-LearningVuePress/"
     },
     {
-      "text": "读论文笔记-暂无",
-      "children": [
-        {
-          "text": "攻击1",
-          "children": [
-            "/group/sub/foo.md",
-            "/group/sub/bar.md"
-          ]
-        },
-        {
-          "text": "防御2",
-          "children": [
-            "/group/sub/foo.md",
-            "/group/sub/bar.md"
-          ]
-        }
-      ]
-    },
-    {
-      "text": "navbar-暂无",
-      "children": [
-        {
-          "text": "Always active",
-          "link": "/",
-          "activeMatch": "/"
-        },
-        {
-          "text": "Active on /foo/",
-          "link": "/not-foo/",
-          "activeMatch": "^/foo/"
-        }
-      ]
+      "text": "GitHub",
+      "link": "https://github.com/JintaoYang18"
     }
   ],
   "logo": "/images/logo2.png",
