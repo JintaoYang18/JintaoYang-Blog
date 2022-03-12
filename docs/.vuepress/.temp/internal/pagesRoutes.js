@@ -3,9 +3,9 @@ import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 const routeItems = [
   ["v-6ce48554","/contributing.html",{"title":"页面的标题"},["/contributing","/contributing.md"]],
   ["v-8daa1a0e","/",{"title":"主页"},["/index.html","/README.md"]],
-  ["v-fb0f0066","/guide/getting-started.html",{"title":"页面的标题"},["/guide/getting-started","/guide/getting-started.md"]],
+  ["v-fb0f0066","/guide/getting-started.html",{"title":"开始"},["/guide/getting-started","/guide/getting-started.md"]],
   ["v-0978b044","/guide/markdown.html",{"title":"页面的标题"},["/guide/markdown","/guide/markdown.md"]],
-  ["v-fffb8e28","/guide/",{"title":"页面的标题"},["/guide/index.html","/guide/README.md"]],
+  ["v-fffb8e28","/guide/",{"title":"指南"},["/guide/index.html","/guide/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
 

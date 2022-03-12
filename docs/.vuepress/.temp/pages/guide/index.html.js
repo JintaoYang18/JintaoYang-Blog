@@ -1,11 +1,11 @@
 export const data = {
   "key": "v-fffb8e28",
   "path": "/guide/",
-  "title": "页面的标题",
+  "title": "指南",
   "lang": "zh-CN",
   "frontmatter": {
     "lang": "zh-CN",
-    "title": "页面的标题",
+    "title": "指南",
     "description": "页面的描述"
   },
   "excerpt": "",

@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: 页面的标题
+title: 指南 
 description: 页面的描述
 ---
 
-Hello Guide
+Hello Guide 🧭

@@ -23,19 +23,15 @@ export const data = {
     "features": [
       {
         "title": "更高",
-        "details": "Spring"
+        "details": "Faster"
       },
       {
         "title": "更快",
-        "details": "Summer"
+        "details": "Higher"
       },
       {
         "title": "更强",
-        "details": "Autumn"
-      },
-      {
-        "title": "更团结",
-        "details": "Winter"
+        "details": "Stronger"
       }
     ],
     "footer": "MIT Licensed | Copyright © 2022-present Jintao Yang"

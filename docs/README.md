@@ -12,17 +12,17 @@ actions:
     type: secondary
 features:
   - title: 更高
-    details: Spring
+    details: Faster
   - title: 更快
-    details: Summer
+    details: Higher
   - title: 更强
-    details: Autumn
-  - title: 更团结
-    details: Winter
+    details: Stronger
+  # - title: 更团结
+  #   details: Winter
     
 footer: MIT Licensed | Copyright © 2022-present Jintao Yang
 ---
 
-# Hello VuePress
+# Hello VuePress 🚀
 
-VuePress 2 已经发布 :tada: ！
+<!-- VuePress 2 已经发布 :tada: ！ -->

@@ -1,2 +1,2 @@
-<template><p>Hello Guide</p>
+<template><p>Hello Guide 🧭</p>
 </template>
