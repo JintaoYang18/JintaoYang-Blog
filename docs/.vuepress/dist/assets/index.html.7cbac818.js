@@ -1,0 +1,1 @@
+import{o as e,c as r}from"./app.ffe19620.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const c={};function t(n,_){return e(),r("p",null,"Hello Guide \u{1F9ED}")}var s=o(c,[["render",t]]);export{s as default};

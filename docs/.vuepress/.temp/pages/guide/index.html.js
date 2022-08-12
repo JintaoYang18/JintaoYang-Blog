@@ -11,11 +11,16 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1646835172000,
+    "updatedTime": 1647080279000,
     "contributors": [
       {
         "name": "JintaoYang18",
         "email": "90304586+JintaoYang18@users.noreply.github.com",
+        "commits": 1
+      },
+      {
+        "name": "JintaoYang18",
+        "email": "colsonyang212@gmail.com",
         "commits": 1
       }
     ]

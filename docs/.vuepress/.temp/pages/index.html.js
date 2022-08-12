@@ -39,8 +39,13 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1646835172000,
+    "updatedTime": 1660296495000,
     "contributors": [
+      {
+        "name": "JintaoYang18",
+        "email": "colsonyang212@gmail.com",
+        "commits": 2
+      },
       {
         "name": "JintaoYang18",
         "email": "90304586+JintaoYang18@users.noreply.github.com",
