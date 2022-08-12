@@ -25,4 +25,6 @@ footer: MIT Licensed | Copyright © 2022-present Jintao Yang
 
 # Hello VuePress 🚀
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=23HXRB9mOT6L6rVaQdXOTEccUfS8lttMt0tOKeNlEsA&cl=ffffff&w=a"></script>
+
 <!-- VuePress 2 已经发布 :tada: ！ -->
